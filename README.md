@@ -9,10 +9,8 @@ web_scraper/
 1️⃣ Cargar las URLs desde un archivo.
 2️⃣ Hacer peticiones asíncronas con aiohttp.
 3️⃣ Extraer información con BeautifulSoup.
-4️⃣ Almacenar los datos en CSV o JSON.
+4️⃣ Almacenar los datos en JSON.
 5️⃣ Optimizar con listas de comprensión y expresiones generadoras.
 
-git
-hacer try and catch
-extraer mas datos
-hacer que se guarden todos los datos en json
+#extraer mas datos
+#hacer que se guarden todos los datos en json
